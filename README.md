@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed Raza
 
 🚀 AI Automation Developer | Python | n8n | APIs  
-I build systems that automate workflows, generate content, and handle customer interactions using AI.
+I build AI-powered systems that automate workflows, generate content, and handle customer interactions.
 
 ---
 
@@ -38,7 +38,8 @@ Streamlit, Twilio, BeautifulSoup, REST APIs
 ## 💼 Open for Freelance
 I build real-world AI automation systems that save time, reduce manual work, and improve efficiency.
 
-📩 Connect with me on LinkedIn: *(add your link here)*  
+📩 Connect with me on LinkedIn:  
+www.linkedin.com/in/mohammed-raza-74b840403
 
 ---
 
