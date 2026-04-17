@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Raza
 
-<!--
-**mohammed-raza-dev/mohammed-raza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Automation Developer from India  
+💻 Python | Chatbots | Workflow Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Build AI chatbots using OpenAI & Claude
+- Automate business workflows using Python
+- Create document Q&A systems (LangChain)
+- Build WhatsApp bots using Twilio
+- Lead scraping + AI outreach tools
+
+---
+
+## ⚙️ Tech Stack
+- Python
+- FastAPI
+- Streamlit
+- LangChain
+- OpenAI API / Claude API
+- Twilio
+- BeautifulSoup
+
+---
+
+## 💼 Open for Freelance
+I build real-world AI tools that save time & money.
+
+📩 Connect on LinkedIn (add link here)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
